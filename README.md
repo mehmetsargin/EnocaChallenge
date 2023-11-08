@@ -1,3 +1,13 @@
+# Enoca Assignment
+
+## Technologies
+
+Spring Boot
+
+Spring Data JPA
+
+MySql
+
 ## Run Project 
 
 Run the project by updating the url, username and password fields used for the database connection in the application.properties file.
